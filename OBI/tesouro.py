@@ -1,3 +1,5 @@
+# Programa que calcula a quantidade de moedas que o Capitão Olho Roxo deverá receber
+
 num_moedas_arca = int(input())
 num_marinheiros = int(input())
 
