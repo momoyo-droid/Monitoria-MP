@@ -1,0 +1,5 @@
+print("Universidade de São Paulo")
+print("Instituto de Ciências Matemáticas e de Computação")
+print("Departamento de Ciências de Computação")
+print('Curso de Extensão "Meninas Programadoras"')
+print("https://meninasprogramadoras.icmc.usp.br")
